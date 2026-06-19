@@ -45,10 +45,10 @@ A future version could replace blocking `delay()` calls with `millis()`-based no
 
 ## Repository Structure
 
-The recommended repository structure is:
+The repository is organized as follows:
 
 ```text
-smart_home_controller/
+smart-home-iot-system/
 ├── smart_home_controller.ino
 ├── README.md
 ├── DHT.h
